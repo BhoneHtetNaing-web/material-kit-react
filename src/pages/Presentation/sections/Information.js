@@ -44,7 +44,7 @@ function Information() {
                   <>
                     Feel the
                     <br />
-                    Material Kit
+                    My Material Kit
                   </>
                 }
                 description="All the MUI components that you need in a development have been re-design with the new look."

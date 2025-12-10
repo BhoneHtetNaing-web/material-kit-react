@@ -16,3 +16,5 @@ frontend:
     build: npm run build
     # List of scripts to run before deploying the frontend.
     deploy: npm install
+
+    "I LOVE YOU BABE-(UWU!!!!)"

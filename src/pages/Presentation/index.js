@@ -77,8 +77,7 @@ function Presentation() {
               px={{ xs: 6, lg: 12 }}
               mt={1}
             >
-              Enjoy & Open Source Web UI Kit built over ReactJS &amp; MUI. Join over 1.6 million
-              developers around the world.
+              Enjoy & Open Source Web UI Kit built over ReactJS &amp; MUI.
             </MKTypography>
           </Grid>
         </Container>
